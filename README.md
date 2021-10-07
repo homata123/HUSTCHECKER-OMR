@@ -2,6 +2,9 @@
 
 ## Description
 - Hust Checker APP is an APP that will help the teachers get the results of answer sheet of the students. This will help the teacher to grade the students faster and provide faster results.
+- Owner: Manh Thang Ho
+- Facebook: https://www.facebook.com/manhthangcttine/
+- Viblo: https://viblo.asia/u/homata123
 
 ## Tools Used
 - Python 3.7
